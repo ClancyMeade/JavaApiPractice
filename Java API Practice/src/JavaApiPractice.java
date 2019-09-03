@@ -11,6 +11,8 @@ public class JavaApiPractice
 				System.out.println(word.substring(2).indexOf("l"));
 				System.out.println(word.substring(17).indexOf("l"));
 				System.out.println(word.substring(0,7));
+				
+		
 			}
 
 	}
